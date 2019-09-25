@@ -6,6 +6,8 @@ Functions include:
 - Error reminder upon wrong user input
 - Theme changes and theme bar sliding
 
+Live Demo: https://glv1at118.github.io/Proj-Webpage-Calculator/Calculator.html
+
 Snapshots:
 
 ![1](https://user-images.githubusercontent.com/44102726/53273407-efb95780-36c1-11e9-8706-99ec8d5f8105.PNG)
